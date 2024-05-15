@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /servers
+Disallow: /servers/
+Allow: /
+Sitemap: https://cdn.ayakobot.com/website_assets/sitemap.xml
