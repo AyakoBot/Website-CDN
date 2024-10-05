@@ -5,4 +5,8 @@
 discordapp.com
 tenor.com
 githubusercontent.com
-live.com
+surl.li
+exe.io
+youclick.link
+githubusercontent.com
+go-link.ru
