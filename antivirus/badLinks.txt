@@ -437,4 +437,6 @@ ww1.twittet.com
 twittet.com
 fixuox.com
 battleroyalml.mc-world.xyz
+verify.the-wickbot.icu
+right.im
 // checked

@@ -10,3 +10,4 @@ exe.io
 youclick.link
 githubusercontent.com
 go-link.ru
+spoo.me
